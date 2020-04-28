@@ -1,0 +1,8 @@
+import sys
+a = int(input('Enter Your First Value:'))
+b = int(input('Enter Your Second Value:'))
+
+if a < b :
+    print("a is greater than b")
+else:
+    print("a is greater than b")

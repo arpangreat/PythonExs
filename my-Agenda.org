@@ -1,0 +1,52 @@
+#+TITLE: My Agenda
+* AUTHOR: Swastik Acharyya
+* VERSION: 0.1
+
+
+* README
+**  Why this Project ???
+    -- This is only my projects what I created while learning Python-Lang
+    -- You can also use for you reference if you want
+    -- Feel free to commit
+** It is my backup
+    -- Yeah I do many things in my old laptop so some times the system breaks and I have to install it again ...
+    -- So this is a cloud backup of my projects
+
+** Not finished yet
+    -- As every programming language is so big so tihs is not completed yet.
+
+
+* AGENDA
+** Finish it asap
+    -- I have to finish the basics asap in qurantine in this deadly CORONA or COVID-19
+    -- Try to go in-depth of every theory
+    -- Do some tweaks
+    -- Make some comits
+
+** TODO
+*** Make the code cleaner
+*** Make the code easy to read
+*** Make the code more optimised
+*** Make any old code more advance as knowledge gets more deeper
+
+
+* FINAL WORDS
+** Bugs
+     -- Feel free to mention any bugs if find.
+     -- Feel free to commit any change to resolve the bugs.
+     -- [[github:arpangreat/PythonExs.git][The GitHub Repo]]
+
+** Comits
+   -- Feel free to commit if you find something that can be optimised or more Advanced
+   -- Feel free to commit to make the code more cleaner
+   -- [[github:arpangreat/PythonExs.git][The GitHub Repo]]
+
+** CLOANING
+   -- run this code in your terminal to cloan this github repo
+
+    #+BEGIN_SRC sh
+
+     git clone https://github.com/arpangreat/PythonExs.git
+     cd PythonExs
+
+    #+END_SRC

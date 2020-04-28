@@ -1,0 +1,5 @@
+from math import pow as m
+a=m.pow(9,8)
+
+print(a)
+
