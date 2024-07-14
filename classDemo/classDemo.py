@@ -2,9 +2,9 @@
 i = input("Enter your name")
 j = input("Enter your os")
 
-class Computer:
 
-    def __init__(self,a,b):
+class Computer:
+    def __init__(self, a, b):
         self.a = a
         self.b = b
 
@@ -14,7 +14,7 @@ class Computer:
         print("This machiene")
 
 
-com1 = Computer(i,j)
+com1 = Computer(i, j)
 com1.config()
 
 print(type(com1))
