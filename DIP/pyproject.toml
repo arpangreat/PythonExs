@@ -1,0 +1,13 @@
+[project]
+name = "dip"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.10.1",
+    "numpy>=2.2.5",
+    "opencv-python>=4.11.0.86",
+    "pyqt5>=5.15.11",
+    "tk>=0.1.0",
+]
